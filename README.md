@@ -27,7 +27,7 @@
 
 ---
 
-## 🧸 tech & tools i adore
+##  tech & tools i adore
 
 | **area**               | **stack**                                                                 |
 |------------------------|---------------------------------------------------------------------------|
@@ -41,38 +41,6 @@
 
 ---
 
-## 💼 experience highlights
-
-**👩‍💻 Junior Frontend Developer @ Dotone Holding** (2024 – present)  
-- Building 3 production apps simultaneously – streaming platform, corporate site, taxi PWA  
-- Implemented SSR/ISR, adaptive HLS streaming, PWAs with offline caching, RTL support, and dashboards  
-
-**📱 Frontend Developer (contract) @ MyDot Platform** (2024)  
-- Social network with real-time feed, Web3 wallet login, infinite scroll, emoji picker, PWA  
-
-**🌱 Intern turned solo dev @ Beh.Land** (2023)  
-- Built the entire company website as my first professional role – React, TS, shadcn/ui  
-
-**✍️ Copywriter & Content Creator @ Riiha.ir** (2021 – present)  
-- 3+ years of SEO-driven Persian content – sharpened my storytelling and UI microcopy skills  
-
-**📚 English Teacher @ IELTS DRN** (2023 – 2024)  
-- Taught IELTS prep – polished communication, empathy, and cross-cultural collaboration  
-
----
-
-## 🌟 featured projects
-
-| project | description | stack |
-|---------|-------------|-------|
-| [LahzehTV](https://lahzeh.tv/) | movie/series streaming platform – adaptive HLS, subscriptions, multi-language, admin dashboards | Next.js 15, HLS.js, Zustand, Nivo, AWS S3 |
-| [Dotone Holding](https://dotone.ir/) | corporate site with animated forms, reCAPTCHA, Jalali date picker | React 19, Framer Motion, Tailwind, Zod |
-| [MyDot](https://www.mydot.one/auth) | Twitter-like social network – real-time, Web3 login, emoji reactions, PWA | React 19, Socket.io, Ant Design, Workbox |
-| [Beh.Land](https://beh.land/) | full marketing website – my first solo project | React, TypeScript, shadcn/ui |
-| Taxi Passenger App | mobile-first PWA – offline caching, RTL, Jalali/Hijri dates | React 19, Vite, Zustand, i18next |
-| [Babak Zanjani](https://www.babakzanjani.com/) | SEO-optimised personal site – SSR, smooth animations | Next.js, Tailwind, Framer Motion |
-
----
 
 ## 📫 let's connect
 
