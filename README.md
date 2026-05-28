@@ -20,11 +20,7 @@
 - 💖 I ship production apps with **React 19, Next.js 15, TypeScript, PWA, and real-time features**  
 - 🧠 My superpower: **technical skills + communication** (thanks to 3 years of copywriting & teaching English)  
 - 🤖 **I keep myself updated with AI** – I actively use and integrate modern AI tools, stay curious about new tech, and love building AI-powered web experiences  
-- 🌍 based in **Tehran, Iran** | open to **remote work worldwide**  
 - 🎨 creative, detail-obsessed, and always learning  
-
-> "I write code that users love – and I love writing code that makes a difference."
-
 ---
 
 ##  tech & tools i adore
@@ -55,5 +51,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sananafari&label=profile+views&color=F7A8C4&style=flat" alt="profile views" />
-  <i>✨ always building, always learning – with a little help from my AI friends ✨</i>
+  <i>THE one who git push, and everything works✨</i>
 </div>
